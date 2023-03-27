@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+}
+h1{
+  font-family: 'Courier New', Courier, monospace;text-align: center;margin: 0;margin-top: 25px;margin-bottom: 100px;color: whitesmoke;
+}
+img{
+  display: block;margin: 0 auto;border-radius: 500px;width: 200px;height: 200px;
+}
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: center;margin: 0;color: whitesmoke;
+}
+.a{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: center;margin: 0;margin-bottom: 100px;color: whitesmoke;
+}
+.btn{
+  border: solid;border-color: darkred;background-color: red;border-radius: 5px;display: block;margin: 0 auto;
+}
+.btn:hover{
+  background-color: pink;border-color: red;cursor: pointer;
+}
+.btn:active{
+  background-color: white;border-color: pink;cursor: pointer;
+}
